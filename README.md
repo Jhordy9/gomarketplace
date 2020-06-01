@@ -27,7 +27,7 @@
 
 ## :rocket: Technologies
 
-Project developed to improve React concepts during the [GoStack BootCamp](https://rocketseat.com.br/bootcamp), using the following technologies:
+Project developed to improve React Native concepts during the [GoStack BootCamp](https://rocketseat.com.br/bootcamp), using the following technologies:
 
 -  [React Native](https://reactnative.dev/)
 -  [React Navigation](https://reactnavigation.org/)
