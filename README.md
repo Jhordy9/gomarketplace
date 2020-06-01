@@ -5,8 +5,6 @@
 </h1>
 
 <h4 align="center">
-  <img alt="Pages" src="" />
-  <br>
   Buy anything with your smartphone!
 </h4>
 <p align="center">
@@ -25,7 +23,7 @@
   <a href="#memo-license">License</a>
 </p>
 
-<img alt="Explorer SVG" src="https://github.com/Jhordy9/github_explorer/blob/master/public/assets/github.jpg" />
+<img alt="Explorer SVG" src="https://github.com/Jhordy9/gomarketplace/blob/master/assets/Group%2010.png" />
 
 ## :rocket: Technologies
 
