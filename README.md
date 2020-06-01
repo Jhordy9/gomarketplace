@@ -36,11 +36,11 @@ Project developed to improve React Native concepts during the [GoStack BootCamp]
 
 ## :information_source: How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v12][nodejs] or higher + [Yarn v1.22][yarn] or higher installed on your computer, [React Native v0.62][reactnative] or higher and a emulator Android/IOS. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v12][nodejs] or higher + [Yarn v1.22][yarn] or higher, [React Native v0.62][reactnative] or higher and a emulator Android/IOS installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Jhordy9/github_explorer.git
+$ git clone https://github.com/Jhordy9/gomarketplace.git
 
 # Go into the repository
 $ cd gomarketplace
