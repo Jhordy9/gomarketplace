@@ -51,7 +51,7 @@ $ yarn install
 # Initiate a emulator Android/IOS
 
 # Run the app
-$ yarn start
+$ yarn android/ios
 ```
 
 ## :memo: License
